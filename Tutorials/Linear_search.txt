@@ -1,3 +1,0 @@
-   Algorithm:
-1.Start
-2.Take the number of test cases.
